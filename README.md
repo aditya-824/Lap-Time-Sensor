@@ -1,5 +1,5 @@
 # Lap-Time-Sensor
-NodeMCU ESP8266 based lap time sensor for 2025 prototype
+Arduino UNO based lap time sensor for 2025 prototype
 
 ### Sensor Pins:
 - 5V supply
